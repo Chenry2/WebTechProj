@@ -1,0 +1,37 @@
+#firstpage {
+    text-align: center;
+    width: 900px;
+    margin: 0 auto;
+    font-size: 60px;
+    font-style: italic;
+    color: #fff;
+    padding-top: 275px;
+}
+
+#mini {
+    text-align: center;
+    width: 900px;
+    margin: 0 auto;
+    color: #fff;
+    font-size: 1.3em;
+}
+
+body {
+    background-color: #000;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #fff;
+}
+
+a:visited {
+   color: #fff;
+}
+
+a:hover {
+    color: #fff;
+}
